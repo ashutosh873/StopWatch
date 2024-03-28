@@ -1,0 +1,40 @@
+body{
+    background-color:rgba(5, 11, 100, 0.922) ;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.main{
+  margin: 10%;
+  border:3px solid white;
+  padding-bottom: 10px;
+  height:200px;
+  border-radius: 30px;
+}
+
+.buttons{
+    display:inline;
+    padding:38.5%;
+}
+
+button{
+    margin:5px;  
+    padding: 8px; 
+    font-weight: bold;
+    font-size: medium;
+}
+
+#start{
+    background-color: green;
+}
+
+#stop{
+    background-color: red;
+}
+
+#reset{
+    background-color: orange;
+}
